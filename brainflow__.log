@@ -1,0 +1,42 @@
+[2022-10-24 16:45:23.860] [board_logger] [info] incoming json: {"serial_port":"","mac_address":"","ip_address":"","ip_port":0,"ip_protocol":0,"other_info":"","timeout":0,"serial_number":"","file":"","master_board":-100,"preset":0}
+[2022-10-24 16:45:23.860] [board_logger] [trace] Board object created -1
+[2022-10-24 16:45:23.862] [board_logger] [trace] File Streamer, file: data_default.csv, mods: w
+[2022-10-24 16:46:29.096] [board_logger] [info] incoming json: {"serial_port":"","mac_address":"","ip_address":"","ip_port":0,"ip_protocol":0,"other_info":"","timeout":0,"serial_number":"","file":"","master_board":-100,"preset":0}
+[2022-10-24 16:46:29.096] [board_logger] [trace] Board object created -1
+[2022-10-24 16:46:29.096] [board_logger] [trace] File Streamer, file: data_default.csv, mods: w
+[2022-10-24 16:49:31.907] [board_logger] [info] incoming json: {"serial_port":"","mac_address":"","ip_address":"","ip_port":0,"ip_protocol":0,"other_info":"","timeout":0,"serial_number":"","file":"","master_board":-100,"preset":0}
+[2022-10-24 16:49:31.907] [board_logger] [trace] Board object created -1
+[2022-10-24 16:59:34.355] [board_logger] [info] incoming json: {"serial_port":"","mac_address":"","ip_address":"","ip_port":0,"ip_protocol":0,"other_info":"","timeout":0,"serial_number":"","file":"","master_board":-100,"preset":0}
+[2022-10-24 16:59:34.357] [board_logger] [trace] Board object created -1
+[2022-10-24 16:59:52.281] [board_logger] [info] incoming json: {"serial_port":"","mac_address":"","ip_address":"","ip_port":0,"ip_protocol":0,"other_info":"","timeout":0,"serial_number":"","file":"","master_board":-100,"preset":0}
+[2022-10-24 16:59:52.281] [board_logger] [trace] Board object created -1
+[2022-10-24 17:01:03.023] [board_logger] [info] incoming json: {"serial_port":"","mac_address":"","ip_address":"","ip_port":0,"ip_protocol":0,"other_info":"","timeout":0,"serial_number":"","file":"","master_board":-100,"preset":0}
+[2022-10-24 17:01:03.023] [board_logger] [trace] Board object created -1
+[2022-10-24 17:01:21.714] [board_logger] [info] incoming json: {"serial_port":"","mac_address":"","ip_address":"","ip_port":0,"ip_protocol":0,"other_info":"","timeout":0,"serial_number":"","file":"","master_board":-100,"preset":0}
+[2022-10-24 17:01:21.714] [board_logger] [trace] Board object created -1
+[2022-10-24 17:02:07.378] [board_logger] [info] incoming json: {"serial_port":"","mac_address":"","ip_address":"","ip_port":0,"ip_protocol":0,"other_info":"","timeout":0,"serial_number":"","file":"","master_board":-100,"preset":0}
+[2022-10-24 17:02:07.378] [board_logger] [trace] Board object created -1
+[2022-10-24 17:20:29.561] [board_logger] [info] incoming json: {"serial_port":"","mac_address":"","ip_address":"","ip_port":0,"ip_protocol":0,"other_info":"","timeout":0,"serial_number":"","file":"","master_board":-100,"preset":0}
+[2022-10-24 17:20:29.562] [board_logger] [trace] Board object created -1
+[2022-10-24 17:21:04.624] [board_logger] [info] incoming json: {"serial_port":"","mac_address":"","ip_address":"","ip_port":0,"ip_protocol":0,"other_info":"","timeout":0,"serial_number":"","file":"","master_board":-100,"preset":0}
+[2022-10-24 17:21:04.624] [board_logger] [trace] Board object created -1
+[2022-10-24 17:21:34.601] [board_logger] [info] incoming json: {"serial_port":"","mac_address":"","ip_address":"","ip_port":0,"ip_protocol":0,"other_info":"","timeout":0,"serial_number":"","file":"","master_board":-100,"preset":0}
+[2022-10-24 17:21:34.601] [board_logger] [trace] Board object created -1
+[2022-10-24 17:21:59.831] [board_logger] [info] incoming json: {"serial_port":"","mac_address":"","ip_address":"","ip_port":0,"ip_protocol":0,"other_info":"","timeout":0,"serial_number":"","file":"","master_board":-100,"preset":0}
+[2022-10-24 17:21:59.831] [board_logger] [trace] Board object created -1
+[2022-10-24 17:24:50.477] [board_logger] [info] incoming json: {"serial_port":"","mac_address":"","ip_address":"","ip_port":0,"ip_protocol":0,"other_info":"","timeout":0,"serial_number":"","file":"","master_board":-100,"preset":0}
+[2022-10-24 17:24:50.477] [board_logger] [trace] Board object created -1
+[2022-10-24 17:25:24.791] [board_logger] [info] incoming json: {"serial_port":"","mac_address":"","ip_address":"","ip_port":0,"ip_protocol":0,"other_info":"","timeout":0,"serial_number":"","file":"","master_board":-100,"preset":0}
+[2022-10-24 17:25:24.792] [board_logger] [trace] Board object created -1
+[2022-10-24 17:25:37.992] [board_logger] [info] incoming json: {"serial_port":"","mac_address":"","ip_address":"","ip_port":0,"ip_protocol":0,"other_info":"","timeout":0,"serial_number":"","file":"","master_board":-100,"preset":0}
+[2022-10-24 17:25:37.992] [board_logger] [trace] Board object created -1
+[2022-10-24 17:26:15.293] [board_logger] [info] incoming json: {"serial_port":"","mac_address":"","ip_address":"","ip_port":0,"ip_protocol":0,"other_info":"","timeout":0,"serial_number":"","file":"","master_board":-100,"preset":0}
+[2022-10-24 17:26:15.293] [board_logger] [trace] Board object created -1
+[2022-10-24 17:27:41.251] [board_logger] [info] incoming json: {"serial_port":"","mac_address":"","ip_address":"","ip_port":0,"ip_protocol":0,"other_info":"","timeout":0,"serial_number":"","file":"","master_board":-100,"preset":0}
+[2022-10-24 17:27:41.252] [board_logger] [trace] Board object created -1
+[2022-10-24 17:28:17.515] [board_logger] [info] incoming json: {"serial_port":"","mac_address":"","ip_address":"","ip_port":0,"ip_protocol":0,"other_info":"","timeout":0,"serial_number":"","file":"","master_board":-100,"preset":0}
+[2022-10-24 17:28:17.515] [board_logger] [trace] Board object created -1
+[2022-10-24 17:28:32.664] [board_logger] [info] incoming json: {"serial_port":"","mac_address":"","ip_address":"","ip_port":0,"ip_protocol":0,"other_info":"","timeout":0,"serial_number":"","file":"","master_board":-100,"preset":0}
+[2022-10-24 17:28:32.664] [board_logger] [trace] Board object created -1
+[2022-10-24 17:28:59.904] [board_logger] [info] incoming json: {"serial_port":"","mac_address":"","ip_address":"","ip_port":0,"ip_protocol":0,"other_info":"","timeout":0,"serial_number":"","file":"","master_board":-100,"preset":0}
+[2022-10-24 17:28:59.904] [board_logger] [trace] Board object created -1
